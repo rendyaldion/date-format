@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rendyaldion/date-format/issues"
   },
-  "homepage": "https://github.com/rendyaldion/date-format#readme"
+  "homepage": "https://github.com/rendyaldion/date-format#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
