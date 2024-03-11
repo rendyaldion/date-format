@@ -1,0 +1,19 @@
+{
+  "name": "date-format",
+  "version": "1.0.0",
+  "description": "Date formatter package for daily use in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendyaldion/date-format.git"
+  },
+  "author": "rendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendyaldion/date-format/issues"
+  },
+  "homepage": "https://github.com/rendyaldion/date-format#readme"
+}
