@@ -1,6 +1,6 @@
 {
   "name": "date-formatter-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Date formatter package for daily use in js",
   "main": "index.js",
   "scripts": {
