@@ -2,9 +2,6 @@
 
 Date formatter in Indonesian Formatter
 
-```
-``# Date Formatter ID
-
 ## Description
 This project is a date formatter in Indonesian. It takes a date input and formats it according to Indonesian date conventions.
 
